@@ -3563,3 +3563,492 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.23-17.02.40:830][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2468.011475
 [2025.05.23-17.02.41:830][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.23-17.02.41:830][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2468.677734, Update Interval: 347.965942
+[2025.05.23-17.07.26:525][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.05.23-17.07.26:530][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.05.23-17.07.26:531][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40] ([1] browsable assets)...
+[2025.05.23-17.07.26:533][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_40.Vordergrund_40]
+[2025.05.23-17.07.26:533][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40]
+[2025.05.23-17.07.26:534][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40_Auto2
+[2025.05.23-17.07.26:535][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_40_Auto24D346F9D402978FB1EA73B9665E5C4DE.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40_Auto2.uasset'
+[2025.05.23-17.07.26:535][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42] ([1] browsable assets)...
+[2025.05.23-17.07.26:539][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_42.Vordergrund_42]
+[2025.05.23-17.07.26:539][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42]
+[2025.05.23-17.07.26:541][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42_Auto2
+[2025.05.23-17.07.26:541][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_42_Auto289BD795141951E3216083AB623CAF509.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42_Auto2.uasset'
+[2025.05.23-17.07.26:542][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten] ([1] browsable assets)...
+[2025.05.23-17.07.26:543][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten.Vordergrund_Balken_oben_und_unten]
+[2025.05.23-17.07.26:543][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten]
+[2025.05.23-17.07.26:544][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Auto2
+[2025.05.23-17.07.26:544][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_Balken_oben_und_unteEFABF9BB4E389597198F8CB8F89124DF.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Auto2.uasset'
+[2025.05.23-17.07.26:545][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04] ([1] browsable assets)...
+[2025.05.23-17.07.26:546][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_04.Vordergrund_04]
+[2025.05.23-17.07.26:547][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04]
+[2025.05.23-17.07.26:548][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04_Auto2
+[2025.05.23-17.07.26:548][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_04_Auto20B2CAF144E861B3200CEB8B91E11DB12.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04_Auto2.uasset'
+[2025.05.23-17.07.26:550][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05] ([1] browsable assets)...
+[2025.05.23-17.07.26:552][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_05.Vordergrund_05]
+[2025.05.23-17.07.26:552][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05]
+[2025.05.23-17.07.26:554][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05_Auto2
+[2025.05.23-17.07.26:554][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_05_Auto2F1E22A014F0FDDB177B11E9BCC7FEC58.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05_Auto2.uasset'
+[2025.05.23-17.07.26:554][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08] ([1] browsable assets)...
+[2025.05.23-17.07.26:558][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_08.Vordergrund_08]
+[2025.05.23-17.07.26:558][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08]
+[2025.05.23-17.07.26:560][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08_Auto2
+[2025.05.23-17.07.26:560][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_08_Auto227FD84BA49A9CB44D6A7B5A45630AA32.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08_Auto2.uasset'
+[2025.05.23-17.07.26:560][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02] ([1] browsable assets)...
+[2025.05.23-17.07.26:562][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_02.Vordergrund_02]
+[2025.05.23-17.07.26:562][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02]
+[2025.05.23-17.07.26:564][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02_Auto2
+[2025.05.23-17.07.26:564][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_02_Auto2FFDA0B1A474AA7D8691A6A8FCAA182BC.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02_Auto2.uasset'
+[2025.05.23-17.07.26:565][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10] ([1] browsable assets)...
+[2025.05.23-17.07.26:567][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_10.Vordergrund_10]
+[2025.05.23-17.07.26:567][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10]
+[2025.05.23-17.07.26:568][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10_Auto2
+[2025.05.23-17.07.26:568][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_10_Auto2D2A332684782090A7E7A58BA2454F412.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10_Auto2.uasset'
+[2025.05.23-17.07.26:569][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01] ([1] browsable assets)...
+[2025.05.23-17.07.26:573][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_01.Vordergrund_01]
+[2025.05.23-17.07.26:573][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01]
+[2025.05.23-17.07.26:576][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01_Auto2
+[2025.05.23-17.07.26:576][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_01_Auto2E291341D45DCDB0EAB3D7E81059CBF85.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01_Auto2.uasset'
+[2025.05.23-17.07.26:576][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09] ([1] browsable assets)...
+[2025.05.23-17.07.26:578][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_09.Vordergrund_09]
+[2025.05.23-17.07.26:578][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09]
+[2025.05.23-17.07.26:578][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09_Auto2
+[2025.05.23-17.07.26:578][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_09_Auto2A5D9DFC34D6B0F6F3090DDA19D258E23.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09_Auto2.uasset'
+[2025.05.23-17.07.26:580][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11] ([1] browsable assets)...
+[2025.05.23-17.07.26:581][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_11.Vordergrund_11]
+[2025.05.23-17.07.26:581][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11]
+[2025.05.23-17.07.26:584][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11_Auto2
+[2025.05.23-17.07.26:584][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_11_Auto22A37C7CC40CFBE1B11E31C9D50704E88.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11_Auto2.uasset'
+[2025.05.23-17.07.26:585][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06] ([1] browsable assets)...
+[2025.05.23-17.07.26:592][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_06.Vordergrund_06]
+[2025.05.23-17.07.26:592][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06]
+[2025.05.23-17.07.26:593][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06_Auto2
+[2025.05.23-17.07.26:593][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_06_Auto2EDFB9C7C458D45517F2CD1B0432F16AA.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06_Auto2.uasset'
+[2025.05.23-17.07.26:594][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03] ([1] browsable assets)...
+[2025.05.23-17.07.26:595][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_03.Vordergrund_03]
+[2025.05.23-17.07.26:595][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03]
+[2025.05.23-17.07.26:598][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03_Auto2
+[2025.05.23-17.07.26:598][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_03_Auto2C926B05847BA0E75DC0B12BEAA7036EA.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03_Auto2.uasset'
+[2025.05.23-17.07.26:598][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07] ([1] browsable assets)...
+[2025.05.23-17.07.26:600][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_07.Vordergrund_07]
+[2025.05.23-17.07.26:600][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07]
+[2025.05.23-17.07.26:601][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07_Auto2
+[2025.05.23-17.07.26:601][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_07_Auto23C1650124F19D9A9D21099AEE5382012.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07_Auto2.uasset'
+[2025.05.23-17.07.26:603][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13] ([1] browsable assets)...
+[2025.05.23-17.07.26:606][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_13.Vordergrund_13]
+[2025.05.23-17.07.26:606][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13]
+[2025.05.23-17.07.26:608][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13_Auto2
+[2025.05.23-17.07.26:608][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_13_Auto20368E6FF4B90FD603E5330B226D654A8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13_Auto2.uasset'
+[2025.05.23-17.07.26:608][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12] ([1] browsable assets)...
+[2025.05.23-17.07.26:611][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_12.Vordergrund_12]
+[2025.05.23-17.07.26:611][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12]
+[2025.05.23-17.07.26:612][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12_Auto2
+[2025.05.23-17.07.26:612][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_12_Auto2CBEE0B884466A5FDDFAF6CA6B19BCE08.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12_Auto2.uasset'
+[2025.05.23-17.07.26:613][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15] ([1] browsable assets)...
+[2025.05.23-17.07.26:615][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_15.Vordergrund_15]
+[2025.05.23-17.07.26:615][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15]
+[2025.05.23-17.07.26:616][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15_Auto2
+[2025.05.23-17.07.26:616][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_15_Auto2BAAF12D34928958214F2EF97CFE3089B.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15_Auto2.uasset'
+[2025.05.23-17.07.26:616][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18] ([1] browsable assets)...
+[2025.05.23-17.07.26:622][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_18.Vordergrund_18]
+[2025.05.23-17.07.26:622][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18]
+[2025.05.23-17.07.26:624][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18_Auto2
+[2025.05.23-17.07.26:624][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_18_Auto2516F97E940CADFD353199FA8A5E096EE.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18_Auto2.uasset'
+[2025.05.23-17.07.26:625][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16] ([1] browsable assets)...
+[2025.05.23-17.07.26:626][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_16.Vordergrund_16]
+[2025.05.23-17.07.26:626][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16]
+[2025.05.23-17.07.26:629][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16_Auto2
+[2025.05.23-17.07.26:629][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_16_Auto205C6F68A47FCA881541183A942FF0C9A.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16_Auto2.uasset'
+[2025.05.23-17.07.26:630][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21] ([1] browsable assets)...
+[2025.05.23-17.07.26:632][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_21.Vordergrund_21]
+[2025.05.23-17.07.26:632][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21]
+[2025.05.23-17.07.26:634][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21_Auto2
+[2025.05.23-17.07.26:634][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_21_Auto2B586B2DA4DF611B3AE6A7B91A88103DE.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21_Auto2.uasset'
+[2025.05.23-17.07.26:635][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17] ([1] browsable assets)...
+[2025.05.23-17.07.26:639][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_17.Vordergrund_17]
+[2025.05.23-17.07.26:639][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17]
+[2025.05.23-17.07.26:641][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17_Auto2
+[2025.05.23-17.07.26:641][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_17_Auto23BE33E514B1765BC4C672C833EFEE737.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17_Auto2.uasset'
+[2025.05.23-17.07.26:642][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20] ([1] browsable assets)...
+[2025.05.23-17.07.26:643][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_20.Vordergrund_20]
+[2025.05.23-17.07.26:643][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20]
+[2025.05.23-17.07.26:645][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20_Auto2
+[2025.05.23-17.07.26:645][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_20_Auto2DFF3E8D04D119FF086C946B0518A86FF.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20_Auto2.uasset'
+[2025.05.23-17.07.26:645][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19] ([1] browsable assets)...
+[2025.05.23-17.07.26:647][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_19.Vordergrund_19]
+[2025.05.23-17.07.26:647][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19]
+[2025.05.23-17.07.26:648][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19_Auto2
+[2025.05.23-17.07.26:648][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_19_Auto225CFDEFF4B6E249F64ED1785393529D9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19_Auto2.uasset'
+[2025.05.23-17.07.26:649][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22] ([1] browsable assets)...
+[2025.05.23-17.07.26:651][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_22.Vordergrund_22]
+[2025.05.23-17.07.26:651][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22]
+[2025.05.23-17.07.26:652][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22_Auto2
+[2025.05.23-17.07.26:652][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_22_Auto22EDB5BDD439FFDB1AF6FDEB10439039A.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22_Auto2.uasset'
+[2025.05.23-17.07.26:653][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14] ([1] browsable assets)...
+[2025.05.23-17.07.26:658][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_14.Vordergrund_14]
+[2025.05.23-17.07.26:658][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14]
+[2025.05.23-17.07.26:659][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14_Auto2
+[2025.05.23-17.07.26:659][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_14_Auto281E3680440EB59CB032B019C26F60627.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14_Auto2.uasset'
+[2025.05.23-17.07.26:661][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23] ([1] browsable assets)...
+[2025.05.23-17.07.26:663][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_23.Vordergrund_23]
+[2025.05.23-17.07.26:663][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23]
+[2025.05.23-17.07.26:664][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23_Auto2
+[2025.05.23-17.07.26:664][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_23_Auto252A9A1E64FE087208DB451BA25319383.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23_Auto2.uasset'
+[2025.05.23-17.07.26:665][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26] ([1] browsable assets)...
+[2025.05.23-17.07.26:666][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_26.Vordergrund_26]
+[2025.05.23-17.07.26:666][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26]
+[2025.05.23-17.07.26:668][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26_Auto2
+[2025.05.23-17.07.26:668][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_26_Auto219CFAAB943F325D7BB4C1D9EB1A87193.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26_Auto2.uasset'
+[2025.05.23-17.07.26:670][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25] ([1] browsable assets)...
+[2025.05.23-17.07.26:674][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_25.Vordergrund_25]
+[2025.05.23-17.07.26:674][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25]
+[2025.05.23-17.07.26:677][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25_Auto2
+[2025.05.23-17.07.26:677][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_25_Auto2C2AFF28B42DE57ACC567E8AB9E286997.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25_Auto2.uasset'
+[2025.05.23-17.07.26:678][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31] ([1] browsable assets)...
+[2025.05.23-17.07.26:679][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_31.Vordergrund_31]
+[2025.05.23-17.07.26:679][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31]
+[2025.05.23-17.07.26:680][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31_Auto2
+[2025.05.23-17.07.26:680][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_31_Auto24564F41C4E6D1FA2D797CA9884CD96D0.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31_Auto2.uasset'
+[2025.05.23-17.07.26:681][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24] ([1] browsable assets)...
+[2025.05.23-17.07.26:685][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_24.Vordergrund_24]
+[2025.05.23-17.07.26:685][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24]
+[2025.05.23-17.07.26:687][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24_Auto2
+[2025.05.23-17.07.26:687][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_24_Auto29AFA70E942E6FAA0A2A8A7B9F60B15BF.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24_Auto2.uasset'
+[2025.05.23-17.07.26:688][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29] ([1] browsable assets)...
+[2025.05.23-17.07.26:690][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_29.Vordergrund_29]
+[2025.05.23-17.07.26:690][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29]
+[2025.05.23-17.07.26:692][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29_Auto2
+[2025.05.23-17.07.26:693][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_29_Auto23AEBA05B4B46905E84C8558CC89A9191.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29_Auto2.uasset'
+[2025.05.23-17.07.26:693][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33] ([1] browsable assets)...
+[2025.05.23-17.07.26:695][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_33.Vordergrund_33]
+[2025.05.23-17.07.26:695][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33]
+[2025.05.23-17.07.26:696][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33_Auto2
+[2025.05.23-17.07.26:696][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_33_Auto26C188A984AEF074BFE5BCBAAE6CCBCA4.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33_Auto2.uasset'
+[2025.05.23-17.07.26:697][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28] ([1] browsable assets)...
+[2025.05.23-17.07.26:698][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_28.Vordergrund_28]
+[2025.05.23-17.07.26:698][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28]
+[2025.05.23-17.07.26:700][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28_Auto2
+[2025.05.23-17.07.26:700][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_28_Auto295180838455ED2A489A527901229F726.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28_Auto2.uasset'
+[2025.05.23-17.07.26:701][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32] ([1] browsable assets)...
+[2025.05.23-17.07.26:702][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_32.Vordergrund_32]
+[2025.05.23-17.07.26:702][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32]
+[2025.05.23-17.07.26:704][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32_Auto2
+[2025.05.23-17.07.26:704][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_32_Auto2EA64043D4CA6CA019819749219A8723A.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32_Auto2.uasset'
+[2025.05.23-17.07.26:705][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30] ([1] browsable assets)...
+[2025.05.23-17.07.26:706][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_30.Vordergrund_30]
+[2025.05.23-17.07.26:706][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30]
+[2025.05.23-17.07.26:707][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30_Auto2
+[2025.05.23-17.07.26:707][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_30_Auto27648CDB244A7835773214FAA0D0B45E9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30_Auto2.uasset'
+[2025.05.23-17.07.26:708][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27] ([1] browsable assets)...
+[2025.05.23-17.07.26:710][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_27.Vordergrund_27]
+[2025.05.23-17.07.26:710][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27]
+[2025.05.23-17.07.26:713][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27_Auto2
+[2025.05.23-17.07.26:713][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_27_Auto24B9B7D634660E30A2F942AA2A67EB744.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27_Auto2.uasset'
+[2025.05.23-17.07.26:713][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34] ([1] browsable assets)...
+[2025.05.23-17.07.26:718][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_34.Vordergrund_34]
+[2025.05.23-17.07.26:718][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34]
+[2025.05.23-17.07.26:719][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34_Auto2
+[2025.05.23-17.07.26:719][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_34_Auto2EFB04B724E321331890FDAA3BD75F14C.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34_Auto2.uasset'
+[2025.05.23-17.07.26:720][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35] ([1] browsable assets)...
+[2025.05.23-17.07.26:725][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_35.Vordergrund_35]
+[2025.05.23-17.07.26:725][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35]
+[2025.05.23-17.07.26:727][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35_Auto2
+[2025.05.23-17.07.26:727][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_35_Auto27A8DCAC44BC5271A87CF2E8EE51ADDC8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35_Auto2.uasset'
+[2025.05.23-17.07.26:727][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36] ([1] browsable assets)...
+[2025.05.23-17.07.26:729][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_36.Vordergrund_36]
+[2025.05.23-17.07.26:729][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36]
+[2025.05.23-17.07.26:730][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36_Auto2
+[2025.05.23-17.07.26:730][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_36_Auto24301B6914A95F81AD86D299EEB29F9EC.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36_Auto2.uasset'
+[2025.05.23-17.07.26:731][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38] ([1] browsable assets)...
+[2025.05.23-17.07.26:732][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_38.Vordergrund_38]
+[2025.05.23-17.07.26:732][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38]
+[2025.05.23-17.07.26:734][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38_Auto2
+[2025.05.23-17.07.26:734][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_38_Auto24EEBA02B42AD66FF373A50825E106E2C.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38_Auto2.uasset'
+[2025.05.23-17.07.26:735][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39] ([1] browsable assets)...
+[2025.05.23-17.07.26:739][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_39.Vordergrund_39]
+[2025.05.23-17.07.26:739][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39]
+[2025.05.23-17.07.26:741][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39_Auto2
+[2025.05.23-17.07.26:741][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_39_Auto26B9F388D49A9755A646785A981A15C36.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39_Auto2.uasset'
+[2025.05.23-17.07.26:742][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37] ([1] browsable assets)...
+[2025.05.23-17.07.26:743][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_37.Vordergrund_37]
+[2025.05.23-17.07.26:743][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37]
+[2025.05.23-17.07.26:744][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37_Auto2
+[2025.05.23-17.07.26:744][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_37_Auto279B0FD744AC448EBFDFFE2A67B2B888E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37_Auto2.uasset'
+[2025.05.23-17.07.26:746][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41] ([1] browsable assets)...
+[2025.05.23-17.07.26:747][350]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Vordergrund/Vordergrund_41.Vordergrund_41]
+[2025.05.23-17.07.26:747][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41]
+[2025.05.23-17.07.26:748][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41_Auto2
+[2025.05.23-17.07.26:748][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_41_Auto2511D61284EB320764EE406935FE245B1.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41_Auto2.uasset'
+[2025.05.23-17.07.26:750][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat] ([1] browsable assets)...
+[2025.05.23-17.07.26:893][350]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat.Vordergrund_Balken_oben_und_unten_Mat]
+[2025.05.23-17.07.26:893][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat]
+[2025.05.23-17.07.26:894][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat_Auto2
+[2025.05.23-17.07.26:894][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_Balken_oben_und_unteC8B459664A9AFD161FED018AAADD0178.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat_Auto2.uasset'
+[2025.05.23-17.07.26:895][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/crystal_1_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.07.26:940][350]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/ScalingTest/Environment/crystal_1_FoliageType.crystal_1_FoliageType]
+[2025.05.23-17.07.26:941][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_1_FoliageType]
+[2025.05.23-17.07.26:942][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/crystal_1_FoliageType_Auto2
+[2025.05.23-17.07.26:942][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_1_FoliageType_Auto2E1FF838B4B816B9F2FCFA8B949DE3C48.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/crystal_1_FoliageType_Auto2.uasset'
+[2025.05.23-17.07.26:943][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/crystal_2_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.07.26:979][350]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/ScalingTest/Environment/crystal_2_FoliageType.crystal_2_FoliageType]
+[2025.05.23-17.07.26:979][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_2_FoliageType]
+[2025.05.23-17.07.26:981][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/crystal_2_FoliageType_Auto2
+[2025.05.23-17.07.26:981][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_2_FoliageType_Auto2A96D5F4043EBE5516F412BA0C6CAAC65.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/crystal_2_FoliageType_Auto2.uasset'
+[2025.05.23-17.07.26:982][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/crystal_6_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.07.26:999][350]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/ScalingTest/Environment/crystal_6_FoliageType.crystal_6_FoliageType]
+[2025.05.23-17.07.26:999][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_6_FoliageType]
+[2025.05.23-17.07.27:000][350]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/crystal_6_FoliageType_Auto2
+[2025.05.23-17.07.27:000][350]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_6_FoliageType_Auto26339246446AA99C1E9F2DB8F9DE174FD.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/crystal_6_FoliageType_Auto2.uasset'
+[2025.05.23-17.07.27:001][350]LogFileHelpers: Auto-saving content packages took 0.471
+[2025.05.23-17.09.27:029][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2874.207275
+[2025.05.23-17.09.27:164][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.23-17.09.27:164][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2874.331787, Update Interval: 315.498535
+[2025.05.23-17.12.25:748][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.05.23-17.12.33:424][ 53]LogSlate: Window 'Save Content' being destroyed
+[2025.05.23-17.12.33:440][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.23-17.12.33:498][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/crystal_1_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.12.33:498][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_1_FoliageType]
+[2025.05.23-17.12.33:500][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/crystal_1_FoliageType
+[2025.05.23-17.12.33:500][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_1_FoliageType0223AE4845DA1DE8652E5EBF88D72E53.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/crystal_1_FoliageType.uasset'
+[2025.05.23-17.12.33:501][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/crystal_2_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.12.33:501][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_2_FoliageType]
+[2025.05.23-17.12.33:502][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/crystal_2_FoliageType
+[2025.05.23-17.12.33:502][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_2_FoliageTypeA929A7844A887B65627E038B40A71EA4.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/crystal_2_FoliageType.uasset'
+[2025.05.23-17.12.33:503][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/crystal_6_FoliageType] ([1] browsable assets)...
+[2025.05.23-17.12.33:503][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/crystal_6_FoliageType]
+[2025.05.23-17.12.33:504][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/crystal_6_FoliageType
+[2025.05.23-17.12.33:504][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/crystal_6_FoliageTypeD90FD9F94FC0477DD7AD739E4B4F0C15.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/crystal_6_FoliageType.uasset'
+[2025.05.23-17.12.33:506][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01] ([1] browsable assets)...
+[2025.05.23-17.12.33:506][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_01]
+[2025.05.23-17.12.33:510][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_01
+[2025.05.23-17.12.33:510][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_01E492A0F04B56FE5897101F9E645FA60C.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_01.uasset'
+[2025.05.23-17.12.33:510][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02] ([1] browsable assets)...
+[2025.05.23-17.12.33:511][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_02]
+[2025.05.23-17.12.33:513][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_02
+[2025.05.23-17.12.33:513][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_02F1A300274F018135DC1B61978D2BECFC.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_02.uasset'
+[2025.05.23-17.12.33:514][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03] ([1] browsable assets)...
+[2025.05.23-17.12.33:514][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_03]
+[2025.05.23-17.12.33:517][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_03
+[2025.05.23-17.12.33:517][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_0305F1441941560D019FC151990CFC4F5E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_03.uasset'
+[2025.05.23-17.12.33:518][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04] ([1] browsable assets)...
+[2025.05.23-17.12.33:518][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_04]
+[2025.05.23-17.12.33:519][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_04
+[2025.05.23-17.12.33:519][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_0423F927CD4952C15C4094FD956805F186.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_04.uasset'
+[2025.05.23-17.12.33:519][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05] ([1] browsable assets)...
+[2025.05.23-17.12.33:519][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_05]
+[2025.05.23-17.12.33:523][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_05
+[2025.05.23-17.12.33:523][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_05D5D25B1740DFE8E1BFD3078F1032B7F1.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_05.uasset'
+[2025.05.23-17.12.33:523][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06] ([1] browsable assets)...
+[2025.05.23-17.12.33:523][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_06]
+[2025.05.23-17.12.33:525][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_06
+[2025.05.23-17.12.33:525][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_06F0EA80504E0651BE3EB3D2A5E46FD063.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_06.uasset'
+[2025.05.23-17.12.33:526][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07] ([1] browsable assets)...
+[2025.05.23-17.12.33:526][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_07]
+[2025.05.23-17.12.33:529][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_07
+[2025.05.23-17.12.33:529][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_07C920413443B021609A37138BA4F9BB8A.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_07.uasset'
+[2025.05.23-17.12.33:530][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08] ([1] browsable assets)...
+[2025.05.23-17.12.33:530][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_08]
+[2025.05.23-17.12.33:532][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_08
+[2025.05.23-17.12.33:532][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_0866EDA34F47058200BA2E708D1CC92558.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_08.uasset'
+[2025.05.23-17.12.33:533][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09] ([1] browsable assets)...
+[2025.05.23-17.12.33:533][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_09]
+[2025.05.23-17.12.33:536][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_09
+[2025.05.23-17.12.33:536][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_09AF31BFCC4AF5DE224B1DCC8F10DEBA23.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_09.uasset'
+[2025.05.23-17.12.33:536][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10] ([1] browsable assets)...
+[2025.05.23-17.12.33:536][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_10]
+[2025.05.23-17.12.33:539][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_10
+[2025.05.23-17.12.33:539][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_104E10A79A4296C4AB790E1782E59B93F1.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_10.uasset'
+[2025.05.23-17.12.33:540][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11] ([1] browsable assets)...
+[2025.05.23-17.12.33:540][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_11]
+[2025.05.23-17.12.33:542][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_11
+[2025.05.23-17.12.33:542][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_116943ACE14B8E8E8F8AB9F986151B3A69.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_11.uasset'
+[2025.05.23-17.12.33:543][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12] ([1] browsable assets)...
+[2025.05.23-17.12.33:543][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_12]
+[2025.05.23-17.12.33:545][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_12
+[2025.05.23-17.12.33:545][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_129D4BB1FE4573C35FA9437D946B10E76D.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_12.uasset'
+[2025.05.23-17.12.33:546][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13] ([1] browsable assets)...
+[2025.05.23-17.12.33:546][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_13]
+[2025.05.23-17.12.33:548][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_13
+[2025.05.23-17.12.33:548][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_13D263432048AC6633A235C3A58EAABC97.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_13.uasset'
+[2025.05.23-17.12.33:549][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14] ([1] browsable assets)...
+[2025.05.23-17.12.33:549][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_14]
+[2025.05.23-17.12.33:551][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_14
+[2025.05.23-17.12.33:551][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_14B61D4B624D69CC1A3394E18EE9730A82.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_14.uasset'
+[2025.05.23-17.12.33:552][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15] ([1] browsable assets)...
+[2025.05.23-17.12.33:552][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_15]
+[2025.05.23-17.12.33:554][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_15
+[2025.05.23-17.12.33:554][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_15B80527EE43AFA1020AD40481EBC3E1C5.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_15.uasset'
+[2025.05.23-17.12.33:555][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16] ([1] browsable assets)...
+[2025.05.23-17.12.33:555][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_16]
+[2025.05.23-17.12.33:556][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_16
+[2025.05.23-17.12.33:556][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_1664ABD0DC444F364604D72D91C3A7EC33.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_16.uasset'
+[2025.05.23-17.12.33:557][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17] ([1] browsable assets)...
+[2025.05.23-17.12.33:557][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_17]
+[2025.05.23-17.12.33:558][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_17
+[2025.05.23-17.12.33:558][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_177A836DD34575C6D7B24633BC32B42897.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_17.uasset'
+[2025.05.23-17.12.33:559][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18] ([1] browsable assets)...
+[2025.05.23-17.12.33:559][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_18]
+[2025.05.23-17.12.33:561][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_18
+[2025.05.23-17.12.33:561][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_182AD1C53B43A99CAB291BE2B0C35689A8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_18.uasset'
+[2025.05.23-17.12.33:562][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19] ([1] browsable assets)...
+[2025.05.23-17.12.33:562][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_19]
+[2025.05.23-17.12.33:565][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_19
+[2025.05.23-17.12.33:565][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_1903B163384B35C7A47BA8C59CB3616080.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_19.uasset'
+[2025.05.23-17.12.33:566][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20] ([1] browsable assets)...
+[2025.05.23-17.12.33:566][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_20]
+[2025.05.23-17.12.33:566][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_20
+[2025.05.23-17.12.33:566][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_209DFA86F54F1333D858A9E9A62AE70FC6.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_20.uasset'
+[2025.05.23-17.12.33:568][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21] ([1] browsable assets)...
+[2025.05.23-17.12.33:568][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_21]
+[2025.05.23-17.12.33:570][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_21
+[2025.05.23-17.12.33:570][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_21114EC7E24CDB0C302C2961BF7D48CFF0.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_21.uasset'
+[2025.05.23-17.12.33:570][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22] ([1] browsable assets)...
+[2025.05.23-17.12.33:570][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_22]
+[2025.05.23-17.12.33:572][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_22
+[2025.05.23-17.12.33:572][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_22DB7DCADE456482502A3403B1B5500F31.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_22.uasset'
+[2025.05.23-17.12.33:573][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23] ([1] browsable assets)...
+[2025.05.23-17.12.33:573][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_23]
+[2025.05.23-17.12.33:576][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_23
+[2025.05.23-17.12.33:576][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_237588B17C447F620D85B2418CF28EDB8E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_23.uasset'
+[2025.05.23-17.12.33:576][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24] ([1] browsable assets)...
+[2025.05.23-17.12.33:576][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_24]
+[2025.05.23-17.12.33:579][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_24
+[2025.05.23-17.12.33:579][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_2409226B93468E2589B27EE0B9BF7AFCD8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_24.uasset'
+[2025.05.23-17.12.33:579][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25] ([1] browsable assets)...
+[2025.05.23-17.12.33:579][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_25]
+[2025.05.23-17.12.33:583][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_25
+[2025.05.23-17.12.33:583][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_25F8DF285E4B2C2D935260BEA709BE015E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_25.uasset'
+[2025.05.23-17.12.33:584][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26] ([1] browsable assets)...
+[2025.05.23-17.12.33:584][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_26]
+[2025.05.23-17.12.33:586][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_26
+[2025.05.23-17.12.33:586][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_2615E4D2564F36FCB760C3419FD8DBDAE8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_26.uasset'
+[2025.05.23-17.12.33:586][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27] ([1] browsable assets)...
+[2025.05.23-17.12.33:586][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_27]
+[2025.05.23-17.12.33:590][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_27
+[2025.05.23-17.12.33:590][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_27FC37299C49E4CDEFB6385889BEADFDB5.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_27.uasset'
+[2025.05.23-17.12.33:591][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28] ([1] browsable assets)...
+[2025.05.23-17.12.33:591][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_28]
+[2025.05.23-17.12.33:592][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_28
+[2025.05.23-17.12.33:592][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_2842FC0C0443BC9B2DB655F0B8FCDC29B3.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_28.uasset'
+[2025.05.23-17.12.33:593][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29] ([1] browsable assets)...
+[2025.05.23-17.12.33:593][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_29]
+[2025.05.23-17.12.33:594][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_29
+[2025.05.23-17.12.33:594][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_29CCC2CB64427258DE5ABA3385C3DBE5F8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_29.uasset'
+[2025.05.23-17.12.33:595][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30] ([1] browsable assets)...
+[2025.05.23-17.12.33:595][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_30]
+[2025.05.23-17.12.33:596][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_30
+[2025.05.23-17.12.33:596][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_304EBCF50C44D547FC7D68B09E8231C1C6.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_30.uasset'
+[2025.05.23-17.12.33:596][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31] ([1] browsable assets)...
+[2025.05.23-17.12.33:596][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_31]
+[2025.05.23-17.12.33:600][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_31
+[2025.05.23-17.12.33:600][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_31A5669D9C4B2D24CA24B70A9227B68FE8.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_31.uasset'
+[2025.05.23-17.12.33:600][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32] ([1] browsable assets)...
+[2025.05.23-17.12.33:600][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_32]
+[2025.05.23-17.12.33:602][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_32
+[2025.05.23-17.12.33:602][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_32A7AC639447A460EEF7F9C89A5F7A679E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_32.uasset'
+[2025.05.23-17.12.33:602][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33] ([1] browsable assets)...
+[2025.05.23-17.12.33:602][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_33]
+[2025.05.23-17.12.33:604][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_33
+[2025.05.23-17.12.33:604][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_33D0C3E85F415249CD8438A1A36D3D79F7.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_33.uasset'
+[2025.05.23-17.12.33:605][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34] ([1] browsable assets)...
+[2025.05.23-17.12.33:605][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_34]
+[2025.05.23-17.12.33:606][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_34
+[2025.05.23-17.12.33:606][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_34B0E29859434648D5E89FEBB3FC53A93E.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_34.uasset'
+[2025.05.23-17.12.33:608][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35] ([1] browsable assets)...
+[2025.05.23-17.12.33:608][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_35]
+[2025.05.23-17.12.33:611][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_35
+[2025.05.23-17.12.33:611][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_354CC9D7604AAA2A91A8DE90B25CA29539.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_35.uasset'
+[2025.05.23-17.12.33:611][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36] ([1] browsable assets)...
+[2025.05.23-17.12.33:611][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_36]
+[2025.05.23-17.12.33:612][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_36
+[2025.05.23-17.12.33:612][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_3638269F4C4F05A968258D3684230BD10D.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_36.uasset'
+[2025.05.23-17.12.33:613][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37] ([1] browsable assets)...
+[2025.05.23-17.12.33:613][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_37]
+[2025.05.23-17.12.33:614][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_37
+[2025.05.23-17.12.33:614][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_370935FDEA4FEC23A01E4B779C9CE4448F.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_37.uasset'
+[2025.05.23-17.12.33:615][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38] ([1] browsable assets)...
+[2025.05.23-17.12.33:615][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_38]
+[2025.05.23-17.12.33:618][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_38
+[2025.05.23-17.12.33:618][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_3821FFEE7F48B17CCA73AB47BECDF099E9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_38.uasset'
+[2025.05.23-17.12.33:619][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39] ([1] browsable assets)...
+[2025.05.23-17.12.33:619][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_39]
+[2025.05.23-17.12.33:622][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_39
+[2025.05.23-17.12.33:622][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_3988412C3A4B9376B5E96A8F84F21C96C9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_39.uasset'
+[2025.05.23-17.12.33:623][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40] ([1] browsable assets)...
+[2025.05.23-17.12.33:623][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_40]
+[2025.05.23-17.12.33:624][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_40
+[2025.05.23-17.12.33:624][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_40FAE2AA0746112F2C11FE4CA0BA10EAC9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_40.uasset'
+[2025.05.23-17.12.33:626][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41] ([1] browsable assets)...
+[2025.05.23-17.12.33:626][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_41]
+[2025.05.23-17.12.33:627][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_41
+[2025.05.23-17.12.33:627][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_41808B1A444CA42D7B5FB3BEB736CE7F98.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_41.uasset'
+[2025.05.23-17.12.33:628][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42] ([1] browsable assets)...
+[2025.05.23-17.12.33:628][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_42]
+[2025.05.23-17.12.33:629][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_42
+[2025.05.23-17.12.33:629][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_4242B12AA94D28B1973F5E95A9E3DFCC59.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_42.uasset'
+[2025.05.23-17.12.33:629][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten] ([1] browsable assets)...
+[2025.05.23-17.12.33:629][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten]
+[2025.05.23-17.12.33:635][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten
+[2025.05.23-17.12.33:635][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_Balken_oben_und_unte21C6BCF1468708065F46F083936042D6.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten.uasset'
+[2025.05.23-17.12.33:636][ 53]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat] ([1] browsable assets)...
+[2025.05.23-17.12.33:636][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat]
+[2025.05.23-17.12.33:637][ 53]LogSavePackage: Moving output files for package: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat
+[2025.05.23-17.12.33:637][ 53]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Vordergrund_Balken_oben_und_unte74CE83E04EA9D3D1281F849086876396.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat.uasset'
+[2025.05.23-17.12.33:648][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.745 ms (total: 1.46 sec)
+[2025.05.23-17.12.33:715][ 53]LogContentValidation: Display: Starting to validate 47 assets
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: Enabled validators:
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.23-17.12.33:716][ 53]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/crystal_1_FoliageType Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/crystal_2_FoliageType Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/crystal_6_FoliageType Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_01 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_02 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_03 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_04 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_05 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_06 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_07 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_08 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_09 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_10 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_11 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_12 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_13 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_14 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_15 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_16 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_17 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_18 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_19 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_20 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_21 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_22 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_23 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_24 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_25 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_26 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_27 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_28 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_29 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_30 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_31 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_32 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_33 Validating asset
+[2025.05.23-17.12.33:716][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_34 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_35 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_36 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_37 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_38 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_39 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_40 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_41 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_42 Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten Validating asset
+[2025.05.23-17.12.33:718][ 53]AssetCheck: /Game/ScalingTest/Environment/Vordergrund/Vordergrund_Balken_oben_und_unten_Mat Validating asset
+[2025.05.23-17.12.33:760][ 53]LogAutomationController: Ignoring very large delta of 8.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
