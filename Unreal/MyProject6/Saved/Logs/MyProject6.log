@@ -1716,3 +1716,27 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.19-16.51.39:312][225]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
 [2025.07.19-16.51.39:312][225]AssetCheck: /Game/ScalingTest/Environment/lambert1 Validating asset
 [2025.07.19-16.51.39:312][225]AssetCheck: /Game/ScalingTest/Environment/box_LP Validating asset
+[2025.07.19-16.52.44:737][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.19-16.52.44:745][146]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LD/F5DGGOM1T6BX9CXWCB1JXW_Auto3
+[2025.07.19-16.52.44:745][146]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/F5DGGOM1T6BX9CXWCB1JXW_Auto378DC92104FDBE9C889DE37A3DAE448A8.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LD/F5DGGOM1T6BX9CXWCB1JXW_Auto3.uasset'
+[2025.07.19-16.52.44:746][146]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2025.07.19-16.52.44:746][146]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.07.19-16.55.44:020][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2081.327148
+[2025.07.19-16.55.45:021][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-16.55.45:021][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2081.995361, Update Interval: 300.307617
+[2025.07.19-17.01.26:709][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2424.015381
+[2025.07.19-17.01.27:709][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.01.27:709][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2424.682373, Update Interval: 323.661621
+[2025.07.19-17.07.30:740][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2788.043945
+[2025.07.19-17.07.31:740][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.07.31:740][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2788.710693, Update Interval: 312.543121
+[2025.07.19-17.13.41:812][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3159.104736
+[2025.07.19-17.13.42:812][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.13.42:812][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3159.771484, Update Interval: 309.767151
+[2025.07.19-17.19.23:500][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3500.794189
+[2025.07.19-17.19.24:501][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.19.24:501][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3501.461182, Update Interval: 341.297028
+[2025.07.19-17.22.48:734][106]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.19-17.25.48:858][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3886.152832
+[2025.07.19-17.25.49:858][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.25.49:858][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3886.819824, Update Interval: 301.389801
