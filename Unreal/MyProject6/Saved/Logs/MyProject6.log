@@ -1740,3 +1740,1249 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.19-17.25.48:858][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3886.152832
 [2025.07.19-17.25.49:858][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.19-17.25.49:858][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3886.819824, Update Interval: 301.389801
+[2025.07.19-17.28.50:095][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.19-17.28.52:812][528]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.19-17.28.52:866][528]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ScalingTest/Environment/crystal_3.crystal_3
+	Asset Type: StaticMesh
+[2025.07.19-17.28.53:055][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.19-17.28.53:068][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.19-17.28.53:080][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.19-17.28.57:598][830]LogStreaming: Display: FlushAsyncLoading(692): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.28.57:642][830]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03.fbx]
+[2025.07.19-17.28.59:563][830]LogSlate: Window 'Import Content' being destroyed
+[2025.07.19-17.28.59:589][830]LogInterchangeEngine: [Pending] Importing
+[2025.07.19-17.28.59:668][831]LogStreaming: Display: FlushAsyncLoading(693): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.28.59:718][832]LogStreaming: Display: FlushAsyncLoading(694): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.29.14:089][833]LogZenServiceInstance: Warning: Unable to reach Unreal Zen Storage Server HTTP service at [::1]:8558. Status: 0 . Response: 
+[2025.07.19-17.29.14:089][833]LogZenServiceInstance: Display: Local ZenServer recovery being attempted...
+[2025.07.19-17.29.14:089][833]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 21048
+[2025.07.19-17.29.14:089][833]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2025.07.19-17.29.14:089][833]LogZenServiceInstance: Display: Launching executable 'C:/Users/Student/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Student/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/Student/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\Student\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 16424 --child-id Zen_16424_Startup'
+[2025.07.19-17.29.14:172][833]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2025.07.19-17.29.14:172][833]LogZenServiceInstance: Display: Local ZenServer recovery finished.
+[2025.07.19-17.29.14:172][833]LogZenServiceInstance: Display: Local ZenServer post recovery status: Healthy
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Display: Building static mesh Crystal_03 (Required Memory Estimate: 0.085723 MB)...
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Adjacency [0.00s], tris: 50, UVs 1
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Leaves [0.00s]
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Reduce [0.00s]
+[2025.07.19-17.29.14:285][835]LogStaticMesh: Fallback [0.00s], num tris: 50
+[2025.07.19-17.29.14:285][835]LogStaticMesh: ConstrainClusters:
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Input: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Output without splits: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Output with splits: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.29.14:286][835]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.19-17.29.14:286][835]LogStaticMesh: WritePages:
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Root: GPU size: 792 bytes. 1 Pages. 792.000 bytes per page (2.417% utilization).
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Page data disk size: 964 bytes. Fixup data size: 24 bytes.
+[2025.07.19-17.29.14:286][835]LogStaticMesh:   Total GPU size: 792 bytes, Total disk size: 988 bytes.
+[2025.07.19-17.29.14:286][835]LogStaticMesh: Encode [0.00s]
+[2025.07.19-17.29.14:286][835]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.19-17.29.14:287][835]LogStaticMesh: Built static mesh [0.00s] /Game/ScalingTest/Environment/Crystal_03.Crystal_03
+[2025.07.19-17.29.14:486][836]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ro/Environment/props/Crystal_03.fbx]
+[2025.07.19-17.29.14:486][836]Interchange: Warning: [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03.fbx : 'Crystal_03', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.19-17.29.14:574][836]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.19-17.29.14:574][836]LogInterchangeEngine: [Success] Import Done
+[2025.07.19-17.29.15:517][903]LogMaterial: Display: Material /Game/ScalingTest/Environment/lambert2.lambert2 needed to have new flag set bUsedWithNanite !
+[2025.07.19-17.29.17:655][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.19-17.29.17:660][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GO/NFT3THVY64YSLFGNO39Q9H_Auto4
+[2025.07.19-17.29.17:661][117]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/NFT3THVY64YSLFGNO39Q9H_Auto4D9998BD1484EC0EDFEBDD7B3D4625052.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GO/NFT3THVY64YSLFGNO39Q9H_Auto4.uasset'
+[2025.07.19-17.29.17:663][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8X/1VBU7I5LP8NMEX9656E81V_Auto4
+[2025.07.19-17.29.17:663][117]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/1VBU7I5LP8NMEX9656E81V_Auto45837632E4660F38FDB2D51A34088F73D.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8X/1VBU7I5LP8NMEX9656E81V_Auto4.uasset'
+[2025.07.19-17.29.17:664][117]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2025.07.19-17.29.17:664][117]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2025.07.19-17.29.17:664][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/lambert2] ([1] browsable assets)...
+[2025.07.19-17.29.17:676][117]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ScalingTest/Environment/lambert2.lambert2]
+[2025.07.19-17.29.17:676][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/lambert2]
+[2025.07.19-17.29.17:678][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/lambert2_Auto4
+[2025.07.19-17.29.17:678][117]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/lambert2_Auto430AE4E454A6BA070EE224D8D2BC51DBA.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/lambert2_Auto4.uasset'
+[2025.07.19-17.29.17:679][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Crystal_03] ([1] browsable assets)...
+[2025.07.19-17.29.17:685][117]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03]
+[2025.07.19-17.29.17:685][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Crystal_03]
+[2025.07.19-17.29.17:688][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Crystal_03_Auto4
+[2025.07.19-17.29.17:688][117]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Crystal_03_Auto4FCE0B3294F55AE4E7EA01EAEDDD9B2E6.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Crystal_03_Auto4.uasset'
+[2025.07.19-17.29.17:689][117]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.07.19-17.29.24:920][907]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03
+[2025.07.19-17.29.24:920][907]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03
+[2025.07.19-17.29.24:920][907]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2025.07.19-17.29.26:175][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.19-17.29.26:178][ 18]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.07.19-17.29.26:185][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03
+[2025.07.19-17.29.26:185][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03
+[2025.07.19-17.29.26:187][ 18]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03.Crystal_03 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04421AED01CD127D02_1085850664
+[2025.07.19-17.30.05:557][885]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.07.19-17.30.05:567][885]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.07.19-17.30.05:582][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.07.19-17.30.06:591][997]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.07.19-17.30.06:592][997]LogContentBrowser: End creating deferred item NewMaterial
+[2025.07.19-17.30.07:033][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.19-17.30.08:136][ 37]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.19-17.30.08:153][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.19-17.30.08:166][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.19-17.30.08:178][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.19-17.30.11:323][344]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.19-17.30.11:350][344]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.19-17.30.11:389][345]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.19-17.30.14:952][761]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.07.19-17.30.14:953][761]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.19-17.30.25:569][250]LogStreaming: Display: FlushAsyncLoading(695): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.30.25:588][250]LogInterchangeEngine: [Pending] Importing
+[2025.07.19-17.30.25:588][250]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Texture/props_lp_maya_to_substance_lambert1_BaseColor.png]
+[2025.07.19-17.30.25:589][250]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.19-17.30.25:589][250]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Texture/props_lp_maya_to_substance_lambert1_Normal.png]
+[2025.07.19-17.30.25:590][250]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.19-17.30.25:590][250]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Texture/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.png]
+[2025.07.19-17.30.25:673][252]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.30.25:794][258]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.07.19-17.30.25:797][259]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2025.07.19-17.30.25:862][260]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor.props_lp_maya_to_substance_lambert1_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.07.19-17.30.25:868][260]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2025.07.19-17.30.25:937][260]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...onment/props/Texture/props_lp_maya_to_substance_lambert1_Normal.png]
+[2025.07.19-17.30.25:937][260]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.19-17.30.26:055][262]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...onment/props/Texture/props_lp_maya_to_substance_lambert1_BaseColor.png]
+[2025.07.19-17.30.26:055][262]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.19-17.30.26:055][262]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...onment/props/Texture/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.png]
+[2025.07.19-17.30.26:056][262]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.19-17.30.26:056][262]LogInterchangeEngine: [Success] Import Done
+[2025.07.19-17.30.39:790][728]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScalingTest/Environment/lambert2.lambert2
+[2025.07.19-17.30.39:794][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.07.19-17.30.39:794][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.07.19-17.30.39:794][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.07.19-17.30.39:794][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.07.19-17.30.39:794][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.07.19-17.30.39:795][728]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.07.19-17.30.39:795][728]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.07.19-17.30.39:810][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.19-17.30.40:162][728]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.40:162][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.19-17.30.40:162][728]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.30.40:162][728]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.40:176][728]LogSlate: Took 0.006706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.30.40:285][730]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.43:068][994]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.43:068][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.19-17.30.43:068][994]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.30.43:068][994]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.43:125][996]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.43:125][996]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.43:125][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.19-17.30.43:125][996]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.30.43:125][996]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.30.43:583][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.48:848][469]LogShaderCompilers: Display: Cancelled job 0x0000075D6E12AA00 with pending SubmitJob call.
+[2025.07.19-17.30.54:056][963]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.54:056][963]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.19-17.30.54:056][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.54:056][963]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.30.54:056][963]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.54:126][965]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.54:127][965]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.19-17.30.54:127][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.19-17.30.54:127][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.54:127][965]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.30.54:127][965]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.30.54:548][993]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.56:305][158]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.56:305][158]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.19-17.30.56:305][158]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.56:305][158]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.30.56:305][158]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.30.56:377][160]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.30.56:851][196]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.59:190][421]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.30.59:190][421]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.30.59:190][421]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.59:190][421]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.30.59:190][421]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.30.59:255][423]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.30.59:802][464]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.03:088][802]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.31.03:088][802]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.03:088][802]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.03:088][802]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.31.03:088][802]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.31.03:163][804]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.31.03:648][837]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.08:911][385]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.31.08:911][385]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.08:911][385]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.08:911][385]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.31.08:911][385]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.31.08:990][387]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.31.09:388][413]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.12:196][691]LogMaterialEditor: Applying material lambert2
+[2025.07.19-17.31.12:299][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.19-17.31.14:081][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Nanite Compute Shader: 832 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Shader Count: 15
+[2025.07.19-17.31.14:148][691]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.35:631][287]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+[2025.07.19-17.31.35:860][287]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.31.35:860][287]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.35:860][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.35:860][287]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.31.35:860][287]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.36:049][288]MaterialEditorStats: Nanite Compute Shader: 832 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.36:049][288]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.31.36:049][288]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.36:049][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.36:049][288]MaterialEditorStats: Shader Count: 3
+[2025.07.19-17.31.36:051][288]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.36:207][290]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Nanite Compute Shader: 832 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Shader Count: 7
+[2025.07.19-17.31.36:208][290]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.31.45:235][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4242.541504
+[2025.07.19-17.31.45:372][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.31.45:372][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4242.670410, Update Interval: 338.806732
+[2025.07.19-17.31.58:967][890]LogSlate: Window 'props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2025.07.19-17.31.58:973][890]LogSlate: Window 'props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2025.07.19-17.32.01:612][168]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScalingTest/Environment/lambert2.lambert2
+[2025.07.19-17.32.01:615][168]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.07.19-17.32.01:954][168]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.01:954][168]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.01:955][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.01:955][168]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.32.01:955][168]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.32.02:033][170]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.10:389][978]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.10:389][978]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.10:389][978]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.10:389][978]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.32.10:389][978]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: Shader Count: 2
+[2025.07.19-17.32.11:146][ 25]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: Shader Count: 3
+[2025.07.19-17.32.11:246][ 28]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.32.11:352][ 33]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.17:594][625]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.17:596][625]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.17:596][625]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.17:596][625]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.32.17:596][625]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: Shader Count: 2
+[2025.07.19-17.32.17:971][644]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.32.18:075][649]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.21:061][912]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.32.21:061][912]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.21:061][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.21:061][912]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.32.21:061][912]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: Shader Count: 3
+[2025.07.19-17.32.21:479][936]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Shader Count: 4
+[2025.07.19-17.32.21:673][948]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.23:503][108]LogMaterialEditor: Applying material lambert2
+[2025.07.19-17.32.23:612][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.07.19-17.32.25:509][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Nanite Compute Shader: 833 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Shader Count: 15
+[2025.07.19-17.32.25:566][108]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.32.31:733][663]LogSlate: Window 'lambert2' being destroyed
+[2025.07.19-17.33.07:539][358]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ScalingTest/Environment/lambert2.lambert2
+[2025.07.19-17.33.07:543][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.07.19-17.33.07:878][358]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.33.07:878][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.07:878][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.07:878][358]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.33.07:878][358]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.33.07:953][360]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Total job queries 1,061, among them cache hits 630 (59.38%), DDC hits 376 (35.44%), Duplicates 14 (1.32%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Tracking 417 distinct input hashes that result in 351 distinct outputs (84.17%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: RAM used: 198.34 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Shaders Compiled: 41
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Jobs assigned 41, completed 41 (100%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Average time worker was idle: 383.91 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 1.74 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 1.78
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Shader code size: average 10.773 KiB, min 5.164 KiB, max 20.398 KiB
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.87 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Average processing rate: 2.96 jobs/sec
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Total thread time: 24.917 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Total thread preprocess time: 15.966 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Percentage time preprocessing: 64.08%
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.93 sec, max 1.06 sec, min 0.80 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.99% of total time (compiled   11 times, average 0.38 sec, max 0.42 sec, min 0.37 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.52% of total time (compiled    5 times, average 0.82 sec, max 1.08 sec, min 0.73 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 16.21% of total time (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 15.79% of total time (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.46% of total time (compiled    2 times, average 0.93 sec, max 1.06 sec, min 0.80 sec)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: === Material stats ===
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Materials Translated:    243
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Material Translation Only: 0.05 s (35%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: Material Cache Hits: 32 (13%)
+[2025.07.19-17.33.08:868][432]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.33.13:792][879]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+[2025.07.19-17.33.14:021][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.33.14:021][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.14:021][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.14:021][879]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.33.14:021][879]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.33.14:201][880]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.16:075][ 67]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Final
+[2025.07.19-17.33.16:084][ 67]LogMaterial: Warning: [AssetLog] /Engine/Transient.lambert2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+
+[2025.07.19-17.33.16:087][ 67]LogMaterial: Warning: [AssetLog] /Game/ScalingTest/Environment/lambert2.lambert2: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+
+[2025.07.19-17.33.16:089][ 67]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+
+[2025.07.19-17.33.16:092][ 67]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+
+[2025.07.19-17.33.16:110][ 67]MaterialEditorStats: Error: [SM6] (Node TextureSample) Sampler type is Color, should be Linear Color for /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic
+[2025.07.19-17.33.29:988][402]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.33.29:988][402]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.29:988][402]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.29:988][402]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.33.29:988][402]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.30:128][403]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.19-17.33.30:128][403]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.30:128][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.30:128][403]MaterialEditorStats: Shader Count: 2
+[2025.07.19-17.33.30:128][403]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.33.30:214][404]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.34.54:199][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.19-17.34.54:210][301]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.07.19-17.34.54:210][301]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.19-17.34.54:218][301]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8.398 ms
+[2025.07.19-17.34.54:219][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.19-17.34.54:233][301]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.19-17.34.54:233][301]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.19-17.34.54:233][301]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.19-17.34.54:258][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026193s)
+[2025.07.19-17.34.54:258][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.026244s)
+[2025.07.19-17.34.54:297][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.19-17.34.54:301][301]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.19-17.34.54:303][301]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.19-17.34.54:303][301]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.19-17.34.54:303][301]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.19-17.34.54:303][301]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.19-17.34.54:310][301]LogWorldPartition: Display: WorldPartition initialize took 7.171 ms (total: 904.049 ms)
+[2025.07.19-17.34.54:310][301]LogPlayLevel: PIE: World Init took: (0.009070s)
+[2025.07.19-17.34.54:310][301]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.19-17.34.54:310][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.19-17.34.54:310][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.19-17.34.54:310][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.19-17.34.54:310][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.19-17.34.54:310][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.19-17.34.54:314][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.19-17.34.54:335][301]LogAudioMixer: Display: Using Audio Hardware Device Headphones (KT USB Audio)
+[2025.07.19-17.34.54:335][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.19-17.34.54:335][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.19-17.34.54:335][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.19-17.34.54:335][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.19-17.34.54:335][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.19-17.34.54:338][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.19-17.34.54:338][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.19-17.34.54:338][301]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.19-17.34.54:338][301]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.07.19-17.34.54:338][301]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.19-17.34.54:342][301]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.19-17.34.54:353][301]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.07.19-19.34.54
+[2025.07.19-17.34.54:354][301]LogWorld: Bringing up level for play took: 0.011414
+[2025.07.19-17.34.54:356][301]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.07.19-17.34.54:374][301]PIE: Server logged in
+[2025.07.19-17.34.54:376][301]PIE: Play in editor total start time 0.167 seconds.
+[2025.07.19-17.35.09:484][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.19-17.35.09:484][414]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.19-17.35.09:484][414]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.19-17.35.09:487][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.19-17.35.09:487][414]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.19-17.35.09:490][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.19-17.35.09:494][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.19-17.35.09:506][414]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.19-17.35.09:507][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.19-17.35.09:508][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.19-17.35.09:510][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.07.19-17.35.09:515][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.19-17.35.09:522][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.19-17.35.09:631][415]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.07.19-17.36.04:052][819]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal
+[2025.07.19-17.36.04:262][819]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.36.04:262][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.04:262][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.04:262][819]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.36.04:262][819]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.36.04:443][820]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.07:881][202]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.36.07:881][202]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.07:881][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.07:881][202]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.36.07:881][202]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.36.08:079][204]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.09:667][377]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.36.09:667][377]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.09:667][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.09:667][377]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.36.09:667][377]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.36.09:862][379]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.16:342][134]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.36.16:343][134]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.16:343][134]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.16:343][134]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.36.16:343][134]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.36.16:547][136]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.36.40:261][770]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Final
+[2025.07.19-17.36.50:071][820]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Final
+[2025.07.19-17.36.53:803][225]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Final
+[2025.07.19-17.37.12:336][366]LogTexture: Display: Building textures: /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Final
+[2025.07.19-17.37.12:380][366]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.37.12:380][366]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.12:380][366]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.12:380][366]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.37.12:380][366]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.37.12:552][368]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.37.13:666][486]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.37.13:667][486]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.13:667][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.13:667][486]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.37.13:667][486]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.13:837][488]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.37.13:838][488]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.37.14:362][536]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.19-17.37.14:362][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.14:362][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.14:362][536]MaterialEditorStats: Shader Count: 0
+[2025.07.19-17.37.14:362][536]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Shader Count: 5
+[2025.07.19-17.37.14:523][538]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.19-17.38.13:299][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4630.569336
+[2025.07.19-17.38.14:300][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.38.14:300][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4631.235840, Update Interval: 341.835388
+[2025.07.19-17.38.43:520][531]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Total job queries 1,282, among them cache hits 830 (64.74%), DDC hits 388 (30.27%), Duplicates 14 (1.09%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 365 distinct outputs (83.33%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: RAM used: 203.64 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Shaders Compiled: 50
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Jobs assigned 50, completed 50 (100%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Average time worker was idle: 382.79 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 1.74 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.78
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Shader code size: average 9.995 KiB, min 2.797 KiB, max 20.398 KiB
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.48 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Average processing rate: 3.23 jobs/sec
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Total thread time: 29.495 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Total thread preprocess time: 19.018 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Percentage time preprocessing: 64.48%
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Effective parallelization: 1.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.03% of total time (compiled   12 times, average 0.39 sec, max 0.49 sec, min 0.37 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.96% of total time (compiled    5 times, average 0.82 sec, max 1.08 sec, min 0.73 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.69% of total time (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.34% of total time (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 6.31% of total time (compiled    2 times, average 0.93 sec, max 1.06 sec, min 0.80 sec)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: === Material stats ===
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Materials Translated:    283
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Material Translation Only: 0.06 s (38%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: Material Cache Hits: 32 (11%)
+[2025.07.19-17.39.08:872][124]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.39.11:238][321]Cmd: TRANSACTION UNDO
+[2025.07.19-17.39.11:239][321]LogEditorTransaction: Undo Rotate Elements
+[2025.07.19-17.40.28:090][632]LogStreaming: Display: FlushAsyncLoading(701): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.40.28:128][632]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03 unstretched.fbx]
+[2025.07.19-17.40.29:718][632]LogSlate: Window 'Import Content' being destroyed
+[2025.07.19-17.40.29:758][632]LogInterchangeEngine: [Pending] Importing
+[2025.07.19-17.40.29:959][634]LogStreaming: Display: FlushAsyncLoading(702): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.40.30:014][636]LogStaticMesh: Display: Building static mesh Crystal_03_unstretched (Required Memory Estimate: 0.085723 MB)...
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Adjacency [0.00s], tris: 50, UVs 1
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Leaves [0.00s]
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Reduce [0.00s]
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Fallback [0.00s], num tris: 50
+[2025.07.19-17.40.30:015][636]LogStaticMesh: ConstrainClusters:
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Input: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Output without splits: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Output with splits: 1 Clusters, 50 Triangles and 54 Vertices
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.19-17.40.30:015][636]LogStaticMesh: WritePages:
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Root: GPU size: 784 bytes. 1 Pages. 784.000 bytes per page (2.393% utilization).
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Page data disk size: 964 bytes. Fixup data size: 24 bytes.
+[2025.07.19-17.40.30:015][636]LogStaticMesh:   Total GPU size: 784 bytes, Total disk size: 988 bytes.
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Encode [0.00s]
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.19-17.40.30:015][636]LogStaticMesh: Built static mesh [0.00s] /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched
+[2025.07.19-17.40.30:164][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ro/Environment/props/Crystal_03 unstretched.fbx]
+[2025.07.19-17.40.30:164][637]Interchange: Warning: [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03 unstretched.fbx : 'Crystal_03_unstretched', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.19-17.40.30:175][637]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.19-17.40.30:175][637]LogInterchangeEngine: [Success] Import Done
+[2025.07.19-17.40.43:454][ 87]LogSlate: Window 'Message Log' being destroyed
+[2025.07.19-17.40.43:460][ 87]LogSlate: Window 'Message Log' being destroyed
+[2025.07.19-17.40.50:928][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched
+[2025.07.19-17.40.50:929][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched
+[2025.07.19-17.40.50:929][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.07.19-17.40.52:101][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.07.19-17.40.52:105][905]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.07.19-17.40.52:111][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched
+[2025.07.19-17.40.52:111][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched
+[2025.07.19-17.40.52:113][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04421AED01CD127D02_1771776665
+[2025.07.19-17.44.45:138][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5022.425781
+[2025.07.19-17.44.45:287][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.44.45:287][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5022.560547, Update Interval: 320.220947
+[2025.07.19-17.49.38:162][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.07.19-17.49.38:169][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GO/NFT3THVY64YSLFGNO39Q9H_Auto5
+[2025.07.19-17.49.38:169][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/NFT3THVY64YSLFGNO39Q9H_Auto5D823F840477F9D0089B6F8AF4909BE10.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GO/NFT3THVY64YSLFGNO39Q9H_Auto5.uasset'
+[2025.07.19-17.49.38:172][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8X/1VBU7I5LP8NMEX9656E81V_Auto5
+[2025.07.19-17.49.38:172][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/1VBU7I5LP8NMEX9656E81V_Auto5F174AB844582E12380764987845D0235.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8X/1VBU7I5LP8NMEX9656E81V_Auto5.uasset'
+[2025.07.19-17.49.38:173][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LD/F5DGGOM1T6BX9CXWCB1JXW_Auto5
+[2025.07.19-17.49.38:173][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/F5DGGOM1T6BX9CXWCB1JXW_Auto5F63B32794FA5D0F7BA8FECA85B2039AE.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/LD/F5DGGOM1T6BX9CXWCB1JXW_Auto5.uasset'
+[2025.07.19-17.49.38:176][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5A/8LS5605J6OBTJE0AWXK8NM_Auto5
+[2025.07.19-17.49.38:176][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/8LS5605J6OBTJE0AWXK8NM_Auto5D8D5DAB8483CC97F062D07BFEE6691CF.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5A/8LS5605J6OBTJE0AWXK8NM_Auto5.uasset'
+[2025.07.19-17.49.38:177][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/J5/5AKYM6XMM8EUIJRZS3OF0X_Auto5
+[2025.07.19-17.49.38:177][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/5AKYM6XMM8EUIJRZS3OF0X_Auto50E49CB5C47C9332E75471E94E69B27B7.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/J5/5AKYM6XMM8EUIJRZS3OF0X_Auto5.uasset'
+[2025.07.19-17.49.38:179][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.029
+[2025.07.19-17.49.38:179][631]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2025.07.19-17.49.38:180][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/lambert2] ([1] browsable assets)...
+[2025.07.19-17.49.38:354][631]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ScalingTest/Environment/lambert2.lambert2]
+[2025.07.19-17.49.38:354][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/lambert2]
+[2025.07.19-17.49.38:358][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/lambert2_Auto5
+[2025.07.19-17.49.38:358][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/lambert2_Auto5EA66782A418304DF3F28A19EDE53F407.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/lambert2_Auto5.uasset'
+[2025.07.19-17.49.38:359][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ScalingTest/Environment/Crystal_03] ([1] browsable assets)...
+[2025.07.19-17.49.38:359][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Crystal_03]
+[2025.07.19-17.49.38:361][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Crystal_03_Auto5
+[2025.07.19-17.49.38:361][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Crystal_03_Auto5D8B66C8748FBDE95E1673DBF83A6D027.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Crystal_03_Auto5.uasset'
+[2025.07.19-17.49.38:362][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor] ([1] browsable assets)...
+[2025.07.19-17.49.38:364][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor.props_lp_maya_to_substance_lambert1_BaseColor]
+[2025.07.19-17.49.38:364][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor]
+[2025.07.19-17.49.38:375][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor_Auto5
+[2025.07.19-17.49.38:375][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/props_lp_maya_to_substance_lambe33885B5941E18B360313199490403E36.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_BaseColor_Auto5.uasset'
+[2025.07.19-17.49.38:375][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.07.19-17.49.38:378][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic.props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic]
+[2025.07.19-17.49.38:378][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic]
+[2025.07.19-17.49.38:389][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic_Auto5
+[2025.07.19-17.49.38:389][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/props_lp_maya_to_substance_lambeE8271A194EAFF5F194640087749B3B78.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_OcclusionRoughnessMetallic_Auto5.uasset'
+[2025.07.19-17.49.38:390][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal] ([1] browsable assets)...
+[2025.07.19-17.49.38:394][631]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal.props_lp_maya_to_substance_lambert1_Normal]
+[2025.07.19-17.49.38:394][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal]
+[2025.07.19-17.49.38:404][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal_Auto5
+[2025.07.19-17.49.38:404][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/props_lp_maya_to_substance_lambe9B8B51A9406F3F0F77528A82B9EF64E8.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Textures/props_lp_maya_to_substance_lambert1_Normal_Auto5.uasset'
+[2025.07.19-17.49.38:407][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Crystal_03_unstretched] ([1] browsable assets)...
+[2025.07.19-17.49.38:431][631]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ScalingTest/Environment/Crystal_03_unstretched.Crystal_03_unstretched]
+[2025.07.19-17.49.38:431][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Crystal_03_unstretched]
+[2025.07.19-17.49.38:433][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Crystal_03_unstretched_Auto5
+[2025.07.19-17.49.38:433][631]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Crystal_03_unstretched_Auto548DBF88B4DE3A1F95E16F58DD9715BD3.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Crystal_03_unstretched_Auto5.uasset'
+[2025.07.19-17.49.38:433][631]LogFileHelpers: Auto-saving content packages took 0.255
+[2025.07.19-17.50.53:463][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5390.742676
+[2025.07.19-17.50.54:463][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.50.54:463][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5391.409180, Update Interval: 335.323944
+[2025.07.19-17.53.30:792][859]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.53.30:850][859]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03_mp.fbx]
+[2025.07.19-17.53.32:448][859]LogSlate: Window 'Import Content' being destroyed
+[2025.07.19-17.53.32:480][859]LogInterchangeEngine: [Pending] Importing
+[2025.07.19-17.53.32:614][861]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.19-17.53.32:670][863]LogStaticMesh: Display: Building static mesh Crystal_03_mp (Required Memory Estimate: 1.151675 MB)...
+[2025.07.19-17.53.32:672][863]LogStaticMesh: Adjacency [0.00s], tris: 746, UVs 1
+[2025.07.19-17.53.32:673][863]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.19-17.53.32:673][863]LogStaticMesh: Leaves [0.00s]
+[2025.07.19-17.53.32:694][863]LogStaticMesh: Reduce [0.02s]
+[2025.07.19-17.53.32:705][863]LogStaticMesh: Fallback [0.01s], num tris: 438
+[2025.07.19-17.53.32:706][863]LogStaticMesh: ConstrainClusters:
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Input: 12 Clusters, 1502 Triangles and 1241 Vertices
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Output without splits: 12 Clusters, 1502 Triangles and 1244 Vertices
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Output with splits: 12 Clusters, 1502 Triangles and 1244 Vertices
+[2025.07.19-17.53.32:706][863]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.19-17.53.32:706][863]LogStaticMesh: WritePages:
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Root: GPU size: 16820 bytes. 1 Pages. 16820.000 bytes per page (51.331% utilization).
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.19-17.53.32:706][863]LogStaticMesh:   Page data disk size: 13644 bytes. Fixup data size: 72 bytes.
+[2025.07.19-17.53.32:707][863]LogStaticMesh:   Total GPU size: 16820 bytes, Total disk size: 13716 bytes.
+[2025.07.19-17.53.32:707][863]LogStaticMesh: Encode [0.00s]
+[2025.07.19-17.53.32:707][863]LogStaticMesh: Nanite build [0.03s]
+
+[2025.07.19-17.53.32:708][863]LogStaticMesh: Built static mesh [0.04s] /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp
+[2025.07.19-17.53.32:836][864]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ro/Environment/props/Crystal_03_mp.fbx]
+[2025.07.19-17.53.32:836][864]Interchange: Warning: [C:/Users/Student/Documents/Diploma_Caro/Environment/props/Crystal_03_mp.fbx : 'Crystal_03_mp', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.19-17.53.32:848][864]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.19-17.53.32:848][864]LogInterchangeEngine: [Success] Import Done
+[2025.07.19-17.53.40:139][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp
+[2025.07.19-17.53.40:139][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp
+[2025.07.19-17.53.40:140][569]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2025.07.19-17.53.41:778][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.19-17.53.41:784][723]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.19-17.53.41:791][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp
+[2025.07.19-17.53.41:791][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp
+[2025.07.19-17.53.41:793][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04421AED01CD137D02_1467714842
+[2025.07.19-17.55.25:643][189]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 38.60 ms. Compile time 33.98 ms, link time 4.59 ms.
+[2025.07.19-17.55.25:851][189]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 37 new) took 277.85 ms. Compile time 265.07 ms, link time 12.70 ms.
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Total job queries 1,314, among them cache hits 838 (63.77%), DDC hits 393 (29.91%), Duplicates 14 (1.07%)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Tracking 462 distinct input hashes that result in 380 distinct outputs (82.25%)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: RAM used: 209.40 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Shaders Compiled: 69
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Average time worker was idle: 435.44 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.75 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Job life time (pending + execution): average 0.93 s, max 1.78
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Shader code size: average 9.396 KiB, min 2.293 KiB, max 20.398 KiB
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.51 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Average processing rate: 3.73 jobs/sec
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Total thread time: 38.713 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Total thread preprocess time: 19.518 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Percentage time preprocessing: 50.42%
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Effective parallelization: 2.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.16 sec, max 1.22 sec, min 1.09 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.15 sec, max 1.15 sec, min 1.15 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.79% of total time (compiled   15 times, average 0.41 sec, max 0.59 sec, min 0.31 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.63% of total time (compiled    5 times, average 0.82 sec, max 1.08 sec, min 0.73 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.43% of total time (compiled    3 times, average 1.35 sec, max 1.52 sec, min 1.25 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.16% of total time (compiled    3 times, average 1.31 sec, max 1.41 sec, min 1.24 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 5.98% of total time (compiled    2 times, average 1.16 sec, max 1.22 sec, min 1.09 sec)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: === Material stats ===
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Materials Translated:    283
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Material Translation Only: 0.06 s (38%)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.19-17.57.09:354][644]LogShaderCompilers: Display: Material Cache Hits: 32 (11%)
+[2025.07.19-17.57.09:355][644]LogShaderCompilers: Display: ================================================
+[2025.07.19-17.57.21:027][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5778.270020
+[2025.07.19-17.57.22:029][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-17.57.22:029][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5778.938477, Update Interval: 353.735779
+[2025.07.19-17.59.39:096][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.07.19-17.59.39:103][ 93]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KD/JG4PKR5OLF8EBK8XCQPMYU_Auto6
+[2025.07.19-17.59.39:103][ 93]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/JG4PKR5OLF8EBK8XCQPMYU_Auto660526F3B449BCFDB7EFCE4A4FCE1D641.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KD/JG4PKR5OLF8EBK8XCQPMYU_Auto6.uasset'
+[2025.07.19-17.59.39:104][ 93]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2025.07.19-17.59.39:104][ 93]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2025.07.19-17.59.39:104][ 93]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ScalingTest/Environment/Crystal_03_mp] ([1] browsable assets)...
+[2025.07.19-17.59.39:246][ 93]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ScalingTest/Environment/Crystal_03_mp.Crystal_03_mp]
+[2025.07.19-17.59.39:246][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/ScalingTest/Environment/Crystal_03_mp]
+[2025.07.19-17.59.39:250][ 93]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ScalingTest/Environment/Crystal_03_mp_Auto6
+[2025.07.19-17.59.39:250][ 93]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Crystal_03_mp_Auto6B3644F5845CA1D2709B51AA9938F9AA0.tmp' to '../../../../../../Users/Student/Documents/Diploma_Caro/Unreal/MyProject6/Saved/Autosaves/Game/ScalingTest/Environment/Crystal_03_mp_Auto6.uasset'
+[2025.07.19-17.59.39:251][ 93]LogFileHelpers: Auto-saving content packages took 0.147
+[2025.07.19-18.04.08:711][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6185.975098
+[2025.07.19-18.04.09:710][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.04.09:710][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6186.641602, Update Interval: 324.632111
+[2025.07.19-18.10.26:068][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6563.347656
+[2025.07.19-18.10.27:069][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.10.27:069][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6564.015137, Update Interval: 313.969543
+[2025.07.19-18.16.29:752][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6927.047852
+[2025.07.19-18.16.30:752][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.16.30:752][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6927.713867, Update Interval: 300.935699
+[2025.07.19-18.19.31:427][670]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: ce2...d70
+[2025.07.19-18.19.31:427][670]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.95 RefreshExpires: 1.554e+07
+[2025.07.19-18.19.32:427][673]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: ce2...d70 Access[Expires: 2025.07.19-20.19.31 Remaining: 7200.87] Refresh[Expires: 2026-01-15T16:21:10.288Z Remaining: 15544899.29] State: Valid
+[2025.07.19-18.22.03:101][125]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7260.407227
+[2025.07.19-18.22.04:101][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.22.04:101][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7261.074219, Update Interval: 314.343079
+[2025.07.19-18.22.48:734][262]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.19-18.28.09:787][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7627.124512
+[2025.07.19-18.28.10:788][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.28.10:788][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7627.791504, Update Interval: 308.985260
+[2025.07.19-18.33.50:474][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7967.835938
+[2025.07.19-18.33.51:473][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.33.51:473][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7968.502930, Update Interval: 330.837738
+[2025.07.19-18.40.02:488][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8339.794922
+[2025.07.19-18.40.03:489][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.40.03:489][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8340.460938, Update Interval: 321.114532
+[2025.07.19-18.46.20:845][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8717.961914
+[2025.07.19-18.46.21:845][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.46.21:845][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8718.628906, Update Interval: 323.603027
+[2025.07.19-18.52.25:191][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9082.122070
+[2025.07.19-18.52.26:190][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.52.26:190][594]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9082.788086, Update Interval: 322.746063
+[2025.07.19-18.58.43:542][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9460.279297
+[2025.07.19-18.58.44:543][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-18.58.44:543][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9460.946289, Update Interval: 346.942352
+[2025.07.19-19.05.22:234][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9858.791016
+[2025.07.19-19.05.23:233][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.05.23:233][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9859.457031, Update Interval: 322.432922
+[2025.07.19-19.11.42:922][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10239.293945
+[2025.07.19-19.11.43:922][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.11.43:922][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10239.960938, Update Interval: 356.249878
+[2025.07.19-19.18.32:610][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10648.811523
+[2025.07.19-19.18.33:609][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.18.33:609][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10649.477539, Update Interval: 324.465454
+[2025.07.19-19.22.48:734][ 62]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.19-19.24.32:963][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11009.009766
+[2025.07.19-19.24.33:963][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.24.33:963][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11009.675781, Update Interval: 321.975159
+[2025.07.19-19.30.37:314][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11373.211914
+[2025.07.19-19.30.38:314][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.30.38:314][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11373.878906, Update Interval: 349.617615
+[2025.07.19-19.36.58:335][610]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11754.067383
+[2025.07.19-19.36.59:335][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.19-19.36.59:335][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11754.733398, Update Interval: 311.378510
