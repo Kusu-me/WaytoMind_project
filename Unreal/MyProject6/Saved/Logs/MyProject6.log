@@ -9834,3 +9834,300 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.31-10.29.43:509][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.31-10.29.43:509][423]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
 [2025.07.31-10.29.46:172][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.31-10.30.15:281][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 371.567200
+[2025.07.31-10.30.16:281][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-10.30.16:281][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 372.233887, Update Interval: 347.519165
+[2025.07.31-10.30.33:437][822]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.30.33:443][822]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_Level/BP_UI_GameOver.BP_UI_GameOver
+[2025.07.31-10.30.33:443][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.31-10.30.33:451][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.31-10.30.33:457][822]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.07.31-10.30.34:418][822]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.07.31-10.30.34:418][822]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.07.31-10.30.34:650][822]LogSlate: Took 0.006294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.31-10.30.34:664][822]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.07.31-10.30.34:670][822]LogSlate: Took 0.006076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.31-10.30.46:271][861]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.30.48:759][861]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.30.48:759][861]LogInterchangeEngine: Display: Interchange start importing source [//HH-SAE-02/GAME_Studentdata/GAD0324/Carolin Henneberger/Diploma Project/Diploma_Caro/2D Assets/UI/game over float.png]
+[2025.07.31-10.30.48:841][863]LogStreaming: Display: FlushAsyncLoading(837): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.30.48:861][865]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.30.48:900][867]LogInterchangeEngine: Display: Interchange import completed [//HH-SAE-02/GAME_Stu...ma_Caro/2D Assets/UI/game over float.png]
+[2025.07.31-10.30.48:901][867]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.30.48:901][867]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.30.54:241][282]LogStreaming: Display: FlushAsyncLoading(838): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.30.54:247][282]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Skillwindow.Skillwindow (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 243.443359 MB), EncodeSpeed: Fast
+[2025.07.31-10.30.54:271][282]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.30.54:271][282]LogInterchangeEngine: Display: Interchange start importing source [//HH-SAE-02/GAME_Studentdata/GAD0324/Carolin Henneberger/Diploma Project/Diploma_Caro/2D Assets/UI/Skillwindow.png]
+[2025.07.31-10.30.54:429][285]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.30.54:464][286]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Skillwindow.Skillwindow (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 214.398438 MB), EncodeSpeed: Fast
+[2025.07.31-10.30.54:561][287]LogInterchangeEngine: Display: Interchange import completed [//HH-SAE-02/GAME_Stu...ma_Caro/2D Assets/UI/Skillwindow.png]
+[2025.07.31-10.30.54:561][287]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.30.54:561][287]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.31.11:439][506]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.31.11:439][506]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma Caro/2D Assets/UI/Skillwindow.png]
+[2025.07.31-10.31.11:561][511]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.31.11:571][511]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ma Caro/2D Assets/UI/Skillwindow.png]
+[2025.07.31-10.31.11:572][511]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.31.11:572][511]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.31.19:356][ 46]LogStreaming: Display: FlushAsyncLoading(841): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.31.19:361][ 46]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Skillwindow_ohne_verziehrung.Skillwindow_ohne_verziehrung (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 243.443359 MB), EncodeSpeed: Fast
+[2025.07.31-10.31.28:123][ 46]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.31.28:123][ 46]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma Caro/2D Assets/UI/Skillwindow_ohne verziehrung.png]
+[2025.07.31-10.31.28:227][ 51]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.31.28:269][ 52]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Skillwindow_ohne_verziehrung.Skillwindow_ohne_verziehrung (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 214.398438 MB), EncodeSpeed: Fast
+[2025.07.31-10.31.28:295][ 53]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ma Caro/2D Assets/UI/Skillwindow_ohne verziehrung.png]
+[2025.07.31-10.31.28:295][ 53]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.31.28:295][ 53]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.31.37:509][838]LogStreaming: Display: FlushAsyncLoading(844): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.31.37:521][838]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Icon_Object_found.Icon_Object_found (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2025.07.31-10.31.47:840][838]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.31.47:840][838]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma Caro/2D Assets/UI/Icon_Object found.png]
+[2025.07.31-10.31.47:958][844]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.31.48:004][845]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Icon_Object_found.Icon_Object_found (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 472.499988 MB), EncodeSpeed: Fast
+[2025.07.31-10.31.48:063][847]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ma Caro/2D Assets/UI/Icon_Object found.png]
+[2025.07.31-10.31.48:063][847]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.31.48:063][847]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.31.54:852][410]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.31-10.31.55:974][488]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.31.55:974][488]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.31.55:974][488]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.31.55:974][488]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.32.10:179][723]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.31-10.32.28:509][324]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.31-10.32.39:319][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.07.31-10.32.40:257][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-10.32.40:294][655]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Level/BP_UI_GameOver] ([2] browsable assets)...
+[2025.07.31-10.32.40:298][655]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Level/BP_UI_GameOver.BP_UI_GameOver]
+[2025.07.31-10.32.40:298][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/BP_UI_GameOver]
+[2025.07.31-10.32.40:298][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Level/BP_UI_GameOver" FILE="../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_GameOver.uasset" SILENT=true
+[2025.07.31-10.32.40:304][655]LogSavePackage: Moving output files for package: /Game/UI_Level/BP_UI_GameOver
+[2025.07.31-10.32.40:305][655]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/BP_UI_GameOver41DE9A414A28C8E472EBAFA6E7BDCCF6.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_GameOver.uasset'
+[2025.07.31-10.32.40:312][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.858 ms (total: 1.53 sec)
+[2025.07.31-10.32.40:359][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-10.32.40:359][655]LogContentValidation: Enabled validators:
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-10.32.40:359][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-10.32.40:360][655]AssetCheck: /Game/UI_Level/BP_UI_GameOver Validating asset
+[2025.07.31-10.33.21:935][978]LogSlate: Window 'About Unreal Editor' being destroyed
+[2025.07.31-10.34.50:542][249]LogStreaming: Display: FlushAsyncLoading(845): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.34.50:556][249]LogInterchangeEngine: [Pending] Importing
+[2025.07.31-10.34.50:556][249]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma Caro/2D Assets/UI/Icons_Speech.png]
+[2025.07.31-10.34.50:556][249]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.31-10.34.50:556][249]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Student/Documents/Diploma Caro/2D Assets/UI/Key Button.png]
+[2025.07.31-10.34.50:637][251]LogStreaming: Display: FlushAsyncLoading(847): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.34.50:672][255]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.34.50:682][256]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.31-10.34.50:686][256]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Key_Button.Key_Button (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2025.07.31-10.34.50:722][257]LogTexture: Display: Building textures: /Game/UI_Level/Textures/Icons_Speech.Icons_Speech (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2025.07.31-10.34.50:774][258]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ma Caro/2D Assets/UI/Key Button.png]
+[2025.07.31-10.34.50:774][258]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.31-10.34.50:786][259]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Student/Doc...ma Caro/2D Assets/UI/Icons_Speech.png]
+[2025.07.31-10.34.50:787][259]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.31-10.34.50:787][259]LogInterchangeEngine: [Success] Import Done
+[2025.07.31-10.35.12:586][801]LogSlate: Window 'BP_UI_GameOver' being destroyed
+[2025.07.31-10.35.12:592][801]LogSlate: Window 'BP_UI_GameOver' being destroyed
+[2025.07.31-10.35.12:610][801]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-10.35.12:611][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-10.35.12:623][801]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.31-10.35.12:623][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.31-10.35.12:678][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.31-10.35.20:794][491]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.07.31-10.35.20:800][491]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.07.31-10.35.20:806][491]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.07.31-10.35.20:823][492]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.07.31-10.35.33:210][978]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_UI_Pause
+[2025.07.31-10.35.33:299][978]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.07.31-10.35.36:756][387]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_Level/BP_UI_Pause.BP_UI_Pause
+[2025.07.31-10.35.36:757][387]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.31-10.35.36:764][387]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.07.31-10.36.07:207][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 723.494080
+[2025.07.31-10.36.07:358][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-10.36.07:358][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 723.633911, Update Interval: 332.806183
+[2025.07.31-10.36.19:680][938]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.31-10.36.40:688][ 54]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:689][ 54]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:692][ 54]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:761][ 55]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:763][ 55]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:783][ 56]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:787][ 56]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:849][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:850][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:859][ 57]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:873][ 58]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:936][ 59]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:937][ 59]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:946][ 59]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:960][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:962][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.40:964][ 60]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:026][ 61]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:047][ 62]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:049][ 62]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:052][ 62]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:116][ 63]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:125][ 63]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:137][ 64]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:204][ 65]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:212][ 65]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:227][ 66]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:289][ 67]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:309][ 68]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:312][ 68]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:374][ 69]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:376][ 69]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:384][ 69]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:399][ 70]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:464][ 71]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:467][ 71]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:468][ 71]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:477][ 71]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:491][ 72]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:494][ 72]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:558][ 73]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:560][ 73]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:561][ 73]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:581][ 74]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:583][ 74]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:585][ 74]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:586][ 74]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:589][ 74]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:652][ 75]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:661][ 75]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:676][ 76]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:678][ 76]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:742][ 77]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:744][ 77]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:753][ 77]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:766][ 78]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:768][ 78]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:770][ 78]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:774][ 78]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:838][ 79]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:858][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:861][ 80]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:932][ 81]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.41:944][ 82]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.07.31-10.36.44:316][332]LogEditorTransaction: Undo Add Widget
+[2025.07.31-10.37.37:074][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.07.31-10.37.38:393][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-10.37.38:428][964]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Level/BP_UI_Pause] ([2] browsable assets)...
+[2025.07.31-10.37.38:431][964]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Level/BP_UI_Pause.BP_UI_Pause]
+[2025.07.31-10.37.38:431][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/BP_UI_Pause]
+[2025.07.31-10.37.38:431][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Level/BP_UI_Pause" FILE="../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset" SILENT=true
+[2025.07.31-10.37.38:434][964]LogSavePackage: Moving output files for package: /Game/UI_Level/BP_UI_Pause
+[2025.07.31-10.37.38:434][964]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/BP_UI_Pause7B721A3D456878664248F7926057E32C.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset'
+[2025.07.31-10.37.38:994][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 600.800 ms (total: 2.13 sec)
+[2025.07.31-10.37.39:048][964]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-10.37.39:048][964]LogContentValidation: Enabled validators:
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-10.37.39:048][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-10.37.39:050][964]AssetCheck: /Game/UI_Level/BP_UI_Pause Validating asset
+[2025.07.31-10.37.40:933][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI_Level/BP_UI_GameOver.BP_UI_GameOver
+[2025.07.31-10.37.40:934][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.31-10.37.40:943][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.31-10.38.47:164][658]LogEditorTransaction: Undo Add Widget
+[2025.07.31-10.39.15:117][584]LogSlate: Took 0.015175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.07.31-10.40.14:084][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.31-10.40.15:809][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-10.40.15:845][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Level/BP_UI_Pause] ([2] browsable assets)...
+[2025.07.31-10.40.15:847][550]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Level/BP_UI_Pause.BP_UI_Pause]
+[2025.07.31-10.40.15:848][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/BP_UI_Pause]
+[2025.07.31-10.40.15:848][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Level/BP_UI_Pause" FILE="../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset" SILENT=true
+[2025.07.31-10.40.15:851][550]LogSavePackage: Moving output files for package: /Game/UI_Level/BP_UI_Pause
+[2025.07.31-10.40.15:852][550]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/BP_UI_Pause45CB3E0F410CA48F4F9275898643EA7F.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset'
+[2025.07.31-10.40.15:860][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.723 ms (total: 2.18 sec)
+[2025.07.31-10.40.15:914][550]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-10.40.15:914][550]LogContentValidation: Enabled validators:
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-10.40.15:914][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-10.40.15:914][550]AssetCheck: /Game/UI_Level/BP_UI_Pause Validating asset
+[2025.07.31-10.40.35:031][473]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.35:031][473]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.35:031][473]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.35:031][473]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.40:247][932]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.40:247][932]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.53:062][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.53:062][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.53:062][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.53:062][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.56:169][369]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.40.56:169][369]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.02:617][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.02:617][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineLightProfiles' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.02:617][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.02:617][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.05:555][196]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioButtonToggle/AudioButton_Corner4x.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.05:555][196]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content/AudioMaterialSlate/M_AudioMaterialButton.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.05:784][215]LogStreaming: Display: FlushAsyncLoading(849): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-10.41.08:011][381]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/C4DReference.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/C4DReference.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.08:011][381]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.08:011][381]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Cloth/CameraLitDoubleSided.uasset' is outside repository at 'C:/Users/Student/Documents/Diploma Caro'
+[2025.07.31-10.41.40:482][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.07.31-10.41.41:759][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-10.41.41:813][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI_Level/BP_UI_Pause] ([2] browsable assets)...
+[2025.07.31-10.41.41:816][584]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI_Level/BP_UI_Pause.BP_UI_Pause]
+[2025.07.31-10.41.41:816][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/BP_UI_Pause]
+[2025.07.31-10.41.41:816][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI_Level/BP_UI_Pause" FILE="../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset" SILENT=true
+[2025.07.31-10.41.41:821][584]LogSavePackage: Moving output files for package: /Game/UI_Level/BP_UI_Pause
+[2025.07.31-10.41.41:821][584]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/BP_UI_PauseED87ADA9489DB710CA0AEFA0B625FEFC.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Content/UI_Level/BP_UI_Pause.uasset'
+[2025.07.31-10.41.41:829][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.550 ms (total: 2.25 sec)
+[2025.07.31-10.41.41:879][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.31-10.41.41:879][584]LogContentValidation: Enabled validators:
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-10.41.41:879][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-10.41.41:880][584]AssetCheck: /Game/UI_Level/BP_UI_Pause Validating asset
+[2025.07.31-10.41.45:584][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1061.872559
+[2025.07.31-10.41.46:585][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-10.41.46:585][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1062.540894, Update Interval: 313.379913
+[2025.07.31-10.42.08:635][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.07.31-10.42.08:640][840]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2025.07.31-10.42.08:641][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/game_over_float] ([1] browsable assets)...
+[2025.07.31-10.42.08:644][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/game_over_float.game_over_float]
+[2025.07.31-10.42.08:644][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/game_over_float]
+[2025.07.31-10.42.08:648][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/game_over_float_Auto1
+[2025.07.31-10.42.08:648][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/game_over_float_Auto1486759CB4BDFF2378002769FF34C49E4.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/game_over_float_Auto1.uasset'
+[2025.07.31-10.42.08:649][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/Skillwindow] ([1] browsable assets)...
+[2025.07.31-10.42.08:650][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/Skillwindow.Skillwindow]
+[2025.07.31-10.42.08:650][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/Skillwindow]
+[2025.07.31-10.42.08:655][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/Skillwindow_Auto1
+[2025.07.31-10.42.08:656][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Skillwindow_Auto1501489A64E057F9F49DD89AD7056D9E3.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/Skillwindow_Auto1.uasset'
+[2025.07.31-10.42.08:658][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/Skillwindow_ohne_verziehrung] ([1] browsable assets)...
+[2025.07.31-10.42.08:660][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/Skillwindow_ohne_verziehrung.Skillwindow_ohne_verziehrung]
+[2025.07.31-10.42.08:660][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/Skillwindow_ohne_verziehrung]
+[2025.07.31-10.42.08:665][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/Skillwindow_ohne_verziehrung_Auto1
+[2025.07.31-10.42.08:666][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Skillwindow_ohne_verziehrung_Aut1E85CBAC47CCECD64D80808897DD5A54.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/Skillwindow_ohne_verziehrung_Auto1.uasset'
+[2025.07.31-10.42.08:667][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/Icon_Object_found] ([1] browsable assets)...
+[2025.07.31-10.42.08:669][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/Icon_Object_found.Icon_Object_found]
+[2025.07.31-10.42.08:669][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/Icon_Object_found]
+[2025.07.31-10.42.08:678][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/Icon_Object_found_Auto1
+[2025.07.31-10.42.08:679][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Icon_Object_found_Auto1EA637E7C4A43B6A4BD6EDE92524C5BA9.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/Icon_Object_found_Auto1.uasset'
+[2025.07.31-10.42.08:681][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/Key_Button] ([1] browsable assets)...
+[2025.07.31-10.42.08:683][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/Key_Button.Key_Button]
+[2025.07.31-10.42.08:683][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/Key_Button]
+[2025.07.31-10.42.08:692][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/Key_Button_Auto1
+[2025.07.31-10.42.08:692][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Key_Button_Auto19DF650854A532DA32F377D983592D53C.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/Key_Button_Auto1.uasset'
+[2025.07.31-10.42.08:693][840]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI_Level/Textures/Icons_Speech] ([1] browsable assets)...
+[2025.07.31-10.42.08:695][840]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI_Level/Textures/Icons_Speech.Icons_Speech]
+[2025.07.31-10.42.08:695][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI_Level/Textures/Icons_Speech]
+[2025.07.31-10.42.08:704][840]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI_Level/Textures/Icons_Speech_Auto1
+[2025.07.31-10.42.08:704][840]LogSavePackage: Moving '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Icons_Speech_Auto168EA761645BBACE8523554AD8AE26C24.tmp' to '../../../../../../Users/Student/Documents/Diploma Caro/Unreal/MyProject6/Saved/Autosaves/Game/UI_Level/Textures/Icons_Speech_Auto1.uasset'
+[2025.07.31-10.42.08:705][840]LogFileHelpers: Auto-saving content packages took 0.066
