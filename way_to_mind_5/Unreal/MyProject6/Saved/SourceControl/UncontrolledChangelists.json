@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Student/Documents/Caro Repo/way_to_mind_5/Unreal/MyProject6/Content/UI_Level/Dialog_Choice.uasset",
+				"C:/Users/Student/Documents/Caro Repo/way_to_mind_5/Unreal/MyProject6/Content/UI_Level/Dialog.uasset"
+			]
+		}
+	]
+}
