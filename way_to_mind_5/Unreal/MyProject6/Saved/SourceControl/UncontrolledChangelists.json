@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/Damageables/Meshes/standardSurface1.uasset",
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/Damageables/Meshes/thorns.uasset",
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/Damageables/Blueprints/BP_DamageableBase.uasset",
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/Damageables/Blueprints/BP_Damageable.uasset",
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/__ExternalActors__/Levels/ThirdPersonMap/B/T3/AKS1UOK06XFLQQMD2T7FMX.uasset",
+				"C:/Users/Admin/Desktop/GameUpToDate4/way_to_mind_5/Unreal/MyProject6/Content/__ExternalActors__/Levels/ThirdPersonMap/9/Z9/H98UH1467AI4VGSHYK34PS.uasset"
+			]
+		}
+	]
+}
