@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/UI_Level/BP_UI_Start.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/UI_Level/Logo.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/DialogueSystem/floating_text/start_text.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/DialogueSystem/floating_text/collecteable.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/DialogueSystem/floating_text/collectible.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/DialogueSystem/floating_text/puddle.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/Levels/Environment2.umap",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/ScalingTest/Environment/Textures_and_mats/MI_crystals_dark_blue.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/DialogueSystem/floating_text/interact.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/ScalingTest/Environment/Textures_and_mats/M_crystals.uasset",
+				"I:/review_way_to_mind/way_to_mind_5/Unreal/MyProject6/Content/ScalingTest/Environment/Vordergrund_fixed/M_texture_offset.uasset"
+			]
+		}
+	]
+}
